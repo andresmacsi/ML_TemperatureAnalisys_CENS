@@ -15,7 +15,7 @@
 // WiFi
 #include <WiFiManager.h>  
 #include <ESP8266HTTPClient.h>
-// Blink
+// Blynk
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
