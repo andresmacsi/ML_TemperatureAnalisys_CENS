@@ -1,10 +1,10 @@
 // Monitor de temperatura y humedad para el laboratorio
 // de calibracion de medidores electricos de Centrales Electricas
 // de norte de santander
-// Autor: Andres Martinez
+// Autor: Andres Acevedo Martinez
 // Tipo de dispositivo: Datalogger Temeperatura y humedad CENS
 // Pagina web: www.monitorlab.team - onmotica.com
-// Fecha: 02.02.2020
+// Año: 2020
 
 //Librerias
 #include <LiquidCrystal_I2C.h>
